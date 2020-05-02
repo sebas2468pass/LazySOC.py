@@ -1,2 +1,2 @@
 # LazySOC.py
- A Python tool for SOC lazy SOC analysts.
+ A Python tool for lazy SOC analysts.
