@@ -1,7 +1,11 @@
 LazySOC.py
+
 The purpose of this tool is automating everyday mundane tasks of a SOC analyst. 
+
 Sebas
+
 0.0.1
+
 May 02 2020
                
     Changes :
